@@ -1,7 +1,7 @@
 # Experiment 5: COVID-19 Daily Cases Forecasting (Bivariate Analysis)
 ```
-Name : NIRANJAN S
-Reg No : 212224040221
+Name : Ashwath p
+Reg No : 212224220012
 ```
 **AIM:**
 
